@@ -26,9 +26,9 @@ namespace ddwdwdw
 		{
 			var contatos = new Agenda();
 			
-			contatos.AdicionarContato("Cristian");
+			contatos.AdicionarContato("Guilherme");
 			
-			Console.WriteLine(contatos.TemContato("Cristian"));
+			Console.WriteLine(contatos.TemContato("Guilherme"));
 			
 			Console.Write("Press any key to continue . . . ");
 			Console.ReadKey(true);
