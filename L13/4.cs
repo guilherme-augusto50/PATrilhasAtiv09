@@ -26,7 +26,7 @@ namespace ddwdwdw
 	{
 		public static void Main(string[] args)
 		{
-			var aluno = new Aluno("Matheus Cristian Rocha Gomes");
+			var aluno = new Aluno("Guilherme Augusto Alves Filomeno");
 			
 			aluno.adicionarNota(10);
 			aluno.adicionarNota(20);
