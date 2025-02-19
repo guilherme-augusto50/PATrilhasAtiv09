@@ -44,7 +44,7 @@ namespace ddwdwdw
 	{
 		public static void Main(string[] args)
 		{
-			var conta = new Conta("Matheus Cristian Rocha Gomes");
+			var conta = new Conta("Guilherme Augusto Alves Filomeno");
 			
 			conta.depositar(1000);
 			Console.WriteLine(conta.quantia);
